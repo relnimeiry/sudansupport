@@ -1,2 +1,2 @@
 # sudansupport
-volunteer: using GIS for good for sudan support. it's personal for me. 
+volunteer: using GIS for good for sudan war support. it's personal for me. 
